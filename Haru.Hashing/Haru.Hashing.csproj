@@ -5,6 +5,15 @@
     <LangVersion>6.0</LangVersion>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>haru.hashing</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Merijn Hendriks</Authors>
+    <Company>Project Haru</Company>
+    <PackageDescription>Managed hash generators.</PackageDescription>
+    <RepositoryUrl>https://github.com/spt-haru/haru.hashing</RepositoryUrl>
+  </PropertyGroup>
+
   <ItemGroup>
     <Reference Include="Haru.Converters" HintPath="..\references\haru\Haru.Converters.dll" />
     <Reference Include="Haru.Pools" HintPath="..\references\haru\Haru.Pools.dll" />

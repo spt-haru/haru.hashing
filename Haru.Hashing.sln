@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haru.Hashing", "Haru.Hashing\Haru.Hashing.csproj", "{3677D270-322D-44CD-9EE4-7DC7B8B01E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haru.Hashing.Tests", "Haru.Hashing.Tests\Haru.Hashing.Tests.csproj", "{D59EE461-2297-4316-A7B0-7C1E81C96843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3677D270-322D-44CD-9EE4-7DC7B8B01E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3677D270-322D-44CD-9EE4-7DC7B8B01E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3677D270-322D-44CD-9EE4-7DC7B8B01E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3677D270-322D-44CD-9EE4-7DC7B8B01E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59EE461-2297-4316-A7B0-7C1E81C96843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59EE461-2297-4316-A7B0-7C1E81C96843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59EE461-2297-4316-A7B0-7C1E81C96843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59EE461-2297-4316-A7B0-7C1E81C96843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,3 @@
-# haru.hashing
+# Haru.Hashing
+
 Managed hash generators.
